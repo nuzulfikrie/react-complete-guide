@@ -1,0 +1,10 @@
+.Cockpit button {
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border: 0px;
+    cursor: pointer;
+}
+.Cockpit button.active {
+    background-color: red; 
+}
